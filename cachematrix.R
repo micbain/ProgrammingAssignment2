@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 ## Assignment #2 R Programming
+## This code will create functions to calculate/solve the matrix and inverse matrix
 
 ## Write a short comment describing this function :
 ##
